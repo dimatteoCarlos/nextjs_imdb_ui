@@ -1,3 +1,26 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Estilos personalizados para el tema */
+/* html {
+  --background-color-light: #ffffff;
+  --background-color-dark: #1a1a1a;
+  --text-color-light: #000000;
+  --text-color-dark: #ffffff;
+} */
+
+/* html .light {
+  background-color: var(--background-color-light);
+  color: var(--text-color-light);
+} */
+
+/* body .light {
+  background-color: var(--background-color-light);
+  color: var(--text-color-light);
+} */
+
+/* .dark body {
+  background-color: var(--background-color-dark);
+  color: var(--text-color-dark);
+} */
