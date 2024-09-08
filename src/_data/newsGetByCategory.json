@@ -1,0 +1,596 @@
+{
+  "data": {
+    "news": {
+      "__typename": "NewsConnection",
+      "edges": [
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni64811483",
+            "byline": "Missy Schwartz",
+            "date": "2024-09-07T18:29:44Z",
+            "externalUrl": "https://www.thewrap.com/the-room-next-door-wins-golden-lion-venice-film-festival-2024/",
+            "articleTitle": {
+              "plainText": "‘The Room Next Door’ Wins Golden Lion at Venice Film Festival Awards"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2236574721",
+              "url": "https://m.media-amazon.com/images/M/MV5BYjY4NzU0NDEtZWM3Ni00MWNhLTk5NWEtMjQzZDFhOWU1YmJmXkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "Pedro Almodóvar’s “The Room Next Door” won the Golden Lion at the 81st Venice Film Festival. The Spanish auteur’s first feature in English took the top prize at the awards ceremony on Saturday, where he accepted the honor in person. Based on Sigrid Nunez’s novel “What Are You Going Through,” the film stars Tilda Swinton and Julianne Moore as friends who reunite after several years.\n\nThough Almodóvar’s latest was not reviewed as enthusiastically as most of his films (a high bar to cross), the drama was still favored to do well at the Venice awards. When it premiered earlier this week, it was met with a lengthy standing ovation of almost 20 minutes — a warm reception even for festival audiences. And few are the cinephiles in Europe who do not consider the director of “All About My Mother,” “Talk to Her,” “Volver,” “Bad Education” and “Parallel Mothers” a living great."
+            },
+            
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni64811251",
+            "byline": "Ellise Shafer",
+            "date": "2024-09-07T16:17:18Z",
+            "externalUrl": "https://variety.com/2024/film/festivals/kevin-costner-horizon-2-venice-standing-ovation-1236133077/",
+            "articleTitle": {
+              "plainText": "Kevin Costner Gets Crowded by Fans, Hugs Susan Sarandon as ‘Horizon 2’ Gets 3-Minute Venice Standing Ovation"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm239823873",
+              "url": "https://m.media-amazon.com/images/M/MV5BNjVmOGI3MjYtYzFhOC00YjA3LWIxYzctNjJlYTJjZTM1ZDE5XkEyXkFqcGc@._V1_.jpg",
+              "height": 666,
+              "width": 1000
+            },
+            "text": {
+              "plainText": "Kevin Costner’s second installment of his Western franchise “Horizon: An American Saga” earned a three-minute standing ovation at the Venice Film Festival on Saturday, before the director and star was crowded by fans.\n\nThe applause for Costner’s “Horizon 2” had barely passed the three-minute mark when he became encircled by enthusiastic fans — holding up their phones to get selfies or take videos — and was therefore escorted out by security. The follow-up to June’s first edition of “Horizon,” “Chapter Two” debuted at the festival’s Sala Giardino — a much smaller theater than typical premiere-host Sala Grande, which was otherwise occupied on Saturday night with Venice’s awards ceremony. “Chapter One” of “Horizon” premiered at Cannes Film Festival back in May to a seven-minute ovation.\n\nHowever, before he left, Costner hugged his “Bull Durham” co-star Susan Sarandon, who kissed his cheek and whispered congratulations in his ear. The two"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety Film + TV"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni64811281",
+            "byline": "Naser Nahandian",
+            "date": "2024-09-07T16:33:58Z",
+            "externalUrl": "https://gazettely.com/2024/09/entertainment/legolas-and-gandalf-ready-bows-and-staffs/",
+            "articleTitle": {
+              "plainText": "Legolas and Gandalf Ready Bows and Staffs for Potential LotR Comeback"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3636983041",
+              "url": "https://m.media-amazon.com/images/M/MV5BYjFjOThjMjgtYzM5ZS00Yjc0LTk5OTAtYWE4Y2IzMDYyZTI5XkEyXkFqcGdeQXVyMTMxMTIwMTE0._V1_.jpg",
+              "height": 1104,
+              "width": 1530
+            },
+            "text": {
+              "plainText": "Some familiar faces from Peter Jackson’s blockbuster Lord of the Rings films may reprise their roles in an upcoming project set in J.R.R. Tolkien’s fictional world of Middle-earth. Warner Bros. recently announced plans to produce additional live-action movies based on Tolkien’s works. Recent comments from Orlando Bloom and Ian McKellen suggest both actors are open to returning as their beloved characters Legolas and Gandalf.\n\nOrlando Bloom first took on the role of the skilled elf Legolas in 2001’s The Fellowship of the Ring. He went on to play Legolas in the subsequent Lord of the Rings films and also The Hobbit trilogy. When asked by Variety about the possibility of returning, Bloom expressed enthusiasm. “Working on those films was amazing. If [director] Peter Jackson wants me to jump, I’ll ask how high.” Bloom’s successful career was boosted by his debut in the Tolkien adaptations.\n\nIan McKellen"
+            },
+            "source": {
+              "homepage": {
+                "url": "https://gazettely.com/",
+                "label": "Gazettely"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni64810264",
+            "byline": "Umberto Gonzalez",
+            "date": "2024-09-07T00:43:17Z",
+            "externalUrl": "https://www.thewrap.com/saturday-night-shifts-2-weeks-up-to-september-limited-release/",
+            "articleTitle": {
+              "plainText": "‘Saturday Night’ Shifts 2 Weeks Up to September Limited Release"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm1870425089",
+              "url": "https://m.media-amazon.com/images/M/MV5BOGNjYTlkZGQtM2M2MS00MWFlLWIxNDUtMzRlMDY5ZjVmZGZiXkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "Columbia Pictures is shifting the release of “SNL” dramatization “Saturday Night” two weeks up to a limited platform release, ahead of the film’s wide release, the studio announced on Friday.\n\nSony is now giving Jason Reitman’s period comedy a three-tier rollout: it will first release the film in Los Angeles, New York and Toronto on Sept. 27, followed by a limited release on Oct. 4, before going wide on Oct. 11.\n\nThe film recently premiered at the 2024 Telluride Film Festival and garnered critical acclaim. The historical project currently holds an 85% Rotten Tomatoes critic score.\n\nIn her review of the film, TheWrap’s Carla Renata wrote, “At 11:30 p.m. on Oct. 11, 1975, a ferocious troupe of young comedians and writers changed television and pop culture forever. ‘Saturday Night’ is based on the true story of what happened behind the scenes in the 90 minutes leading up to the first broadcast of what was"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni64810369",
+            "byline": "Joe McGovern",
+            "date": "2024-09-07T02:45:36Z",
+            "externalUrl": "https://www.thewrap.com/jennifer-lopez-unstoppable-world-premiere-response-tiff/",
+            "articleTitle": {
+              "plainText": "Jennifer Lopez Sports Drama ‘Unstoppable’ Gets Rousing, Tearful Toronto Premiere Reception"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3047800320",
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY0OTY3ODA3OV5BMl5BanBnXkFtZTcwMzMyMzQ1NQ@@._V1_.jpg",
+              "height": 2048,
+              "width": 1797
+            },
+            "text": {
+              "plainText": "Jharrel Jerome won an Emmy five years ago for his lead performance in Netflix’s “When They See Us” – and the 26-year-old actor might have other gold statues in his future after Friday night’s ecstatic reception for his underdog sports drama “Unstoppable,” which held its world premiere at the Toronto Film Festival.\n\nThe true story feature chronicles the life and career of Arizona wrestler Anthony Robles, who fought his way to a national championship despite being born with one leg. The movie, due for release in December from Amazon/MGM, marks the directorial debut of film editor William Goldenberg (“Argo”) and co-stars Jennifer Lopez as Robles’s mom Judy, Bobby Cannavale as Judy’s abusive husband and Don Cheadle as Robles’s coach.\n\nAll were in the audience at Toronto’s Roy Thompson Hall for the “Unstoppable” premiere screening, and the cast was joined by Robles himself, who received"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni64808680",
+            "byline": "Alex Ritman",
+            "date": "2024-09-06T13:05:00Z",
+            "externalUrl": "https://variety.com/2024/film/global/al-pacino-dan-stevens-exorcism-horror-the-ritual-sells-globally-1236129718/",
+            "articleTitle": {
+              "plainText": "Al Pacino, Dan Stevens Exorcism Horror ‘The Ritual’ Sells Globally, Including to Leonine and Altitude (Exclusive)"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm585382401",
+              "url": "https://m.media-amazon.com/images/M/MV5BYTA1NzVmYjctN2UxMi00NTA3LTk0MWMtNzUwMjVkZWI2ZjMzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+              "height": 3000,
+              "width": 2000
+            },
+            "text": {
+              "plainText": "“The Ritual,” the upcoming exorcism horror in which Al Pacino and Dan Stevens play troubled priests, has sold out for most international territories by XYZ Films.\n\nFrom director David Midell, the film was written by Midell and Enrico Natale, and produced by Andrew Stevens, Mitchell Welch and Natale. Ashley Greene and Abigail Cowen round out the cast.\n\nXYZ, which has been quietly growing its own releasing arm on top of its sales operations, is planning a U.S. theatrical release in 2025.\n\nBased on a true story, “The Ritual” follows two priests — one questioning his faith (Stevens) and one reckoning with a troubled past (Pacino) — who must put aside their differences to save a possessed young woman through a difficult and dangerous series of exorcisms. The film is an authentic portrayal of Emma Schmidt, an American woman whose demonic possession culminated in harrowing exorcisms. Her case remains the most thoroughly documented exorcism in American history."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni64807797",
+            "byline": "Pamela McClintock",
+            "date": "2024-09-05T23:09:15Z",
+            "externalUrl": "https://www.hollywoodreporter.com/movies/movie-news/francis-ford-coppola-megalopolis-tracking-1235992875/",
+            "articleTitle": {
+              "plainText": "Francis Ford Coppola’s ‘Megalopolis’ Tracking for Anemic $5M-Plus US Opening"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3336399873",
+              "url": "https://m.media-amazon.com/images/M/MV5BOTQ2MTcwODgtOTg3Yi00M2RmLWEyMDQtY2IzZmRlYzM3YzhjXkEyXkFqcGc@._V1_.jpg",
+              "height": 6000,
+              "width": 4050
+            },
+            "text": {
+              "plainText": "Francis Ford Coppola’s passion project Megalopolis is tracking for an anemic domestic opening in the $5 million-plus range against a budget of $120 million before marketing, according to one major Hollywood research firm. Another leading service thinks it could come in at between $6 million to $8 million. Either way, that would rank among the lowest wide launches of the revered filmmaker’s career, and put the movie in danger of incurring major losses.\n\nLionsgate opens the movie in North American theaters on Sept. 27, several days after hosting an advance screening at the New York Film Festival on Sept. 23 with support from Imax. The screening will be preceded by a Q&a with Coppola that Imax will beam into 66 of its locations across the U.S. (The revered filmmaker shot part of the movie with Imax-certified cameras.)\n\nThanks to Coppola’s enduring legacy, Megaloplis made its world premiere in competition at the Cannes"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni64810794",
+            "byline": null,
+            "date": "2024-09-07T10:37:00Z",
+            "externalUrl": "https://www.screendaily.com/news/dont-cry-butterfly-uk-feature-paul-and-paulette-head-venice-critics-week-winners/5196996.article?referrer=RSS",
+            "articleTitle": {
+              "plainText": "‘Don’t Cry, Butterfly’, UK feature ‘Paul & Paulette’ head Venice Critics’ Week winners"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2490657793",
+              "url": "https://m.media-amazon.com/images/M/MV5BM2MyYTI1ZDUtNTY0ZC00MGUzLWExOTctY2U3MmJhYTNjYjIyXkEyXkFqcGc@._V1_.jpg",
+              "height": 188,
+              "width": 280
+            },
+            "text": {
+              "plainText": "Vietnamese feature Don’t Cry, Butterfly and UK title Paul & Paulette Take A Bath were among the winners at the 39th Venice Critics’ Week, announced on Friday, September 6.\n\nDuong Dieu Linh’s Don’t Cry, Butterfly took the main Grand Prize, awarded by a jury of Kerem Ayan, Yasmine Benkiran and Ariane Labed. The jury selected the film “for its singularity and creativity; because it tests new ideas, mixing comedy, social drama and fantasy; for the way it depicts the complexity [of] ‘mother and daughter’.”\n\nScroll down for the full list of feature winners\n\nDuong’s feature debut sees a woman turn"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.screendaily.com/",
+                "label": "ScreenDaily"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni64809695",
+            "byline": "Borys Kit",
+            "date": "2024-09-06T20:30:31Z",
+            "externalUrl": "https://www.hollywoodreporter.com/movies/movie-news/ice-cream-man-movie-wednesday-1235992798/",
+            "articleTitle": {
+              "plainText": "‘Beetlejuice Beetlejuice’ Writers Tackling Horror Anthology Comic ‘Ice Cream Man’ for Screen Gems (Exclusive)"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3111808001",
+              "url": "https://m.media-amazon.com/images/M/MV5BZWQzZTgxMjQtY2NlNi00MTMyLTkwMTgtMjk2M2U5YTY0MTk3XkEyXkFqcGc@._V1_.jpg",
+              "height": 5049,
+              "width": 3366
+            },
+            "text": {
+              "plainText": "The Ice Cream Man is ready to ring you up a scoop of suffering.\n\nSony genre label Screen Gems has acquired film rights to the horror anthology comic book that was written and created by W. Maxwell Prince.\n\nAlfred Gough and Miles Millar, the creators of the smash hit Wednesday series and writers of the new Beetlejuice movie, are on board to produce the adaptation via their Sony-based Millar Gough Ink. The company’s Aaron Schmidt is also producing.\n\nIce Cream Man serves up a range of horror flavors and genres, all threaded by the weaver of these tales, the titular character, who could be friend or foe, an angel or a devil. Artists Martin Morazzo and Chris O’Halloran joined Prince on the book.\n\nThe comic has been in and out of the Hollywood freezer since it debuted in 2018 from Image Comics. It was once set up at a series"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni64809821",
+            "byline": "Ethan Shanfeld",
+            "date": "2024-09-06T21:21:30Z",
+            "externalUrl": "https://variety.com/2024/film/news/orlando-bloom-new-lord-of-the-rings-movies-1236135589/",
+            "articleTitle": {
+              "plainText": "Orlando Bloom Spoke to Director Andy Serkis About New ‘Lord of the Rings’ Movies and Wants to Return: If Peter Jackson ‘Says Jump, I Say How High’"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm1064004609",
+              "url": "https://m.media-amazon.com/images/M/MV5BNWMxMGZhNzAtOGMxYi00MTdjLTg1MzEtMzIzZjQ2N2IwYzIyXkEyXkFqcGc@._V1_.jpg",
+              "height": 5000,
+              "width": 3335
+            },
+            "text": {
+              "plainText": "A few days after Ian McKellen expressed interest in returning as Gandalf in Peter Jackson’s new live-action “Lord of the Rings” movies, his co-star Orlando Bloom is adding his name to the list.\n\nWhen asked by Variety if he was interested in returning to the Tolkien franchise, the Legolas actor said, “Oh, man, those things are amazing. Yeah. I don’t know how they’d do it. I guess with AI you can do anything these days. But, if Pete [Peter Jackson] says jump, I say, ‘how high?’ I mean, he started my whole career.”\n\nThe new Middle-earth movies will kick off in 2026 with “Lord of the Rings: The Hunt for Gollum,” directed by Andy Serkis, who will reprise his role of Gollum/Sméagol. Original franchise director Jackson is on board to produce alongside his partners Fran Walsh and Philippa Boyens. The plan is for that film to be the start"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni64809909",
+            "byline": "Tatiana Siegel",
+            "date": "2024-09-06T21:47:41Z",
+            "externalUrl": "https://variety.com/2024/film/news/pamela-anderson-last-showgirl-wows-toronto-film-festival-1236133340/",
+            "articleTitle": {
+              "plainText": "Pamela Anderson’s ‘The Last Showgirl’ Wows Toronto Film Festival: ‘I’ve Been Getting Ready My Whole Life for This’"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm1869048833",
+              "url": "https://m.media-amazon.com/images/M/MV5BMzYyMmZiNzEtMWViMS00NGJkLThmNTctYTI1MDY5YjI4YWJmXkEyXkFqcGc@._V1_.jpg",
+              "height": 800,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "The Toronto International Film Festival upped the razzle dazzle factor on the second day of its 49th edition with the world premiere of “The Last Showgirl,” a Vegas-set drama that sees star Pamela Anderson enter the awards-season conversation for the first time in her iconic career.\n\nThe film, directed by Gia Coppola (“Palo Alto”), follows a 30-year veteran dancer, who toils in sequin in the last remaining traditional floor show in the gambling mecca known as Sin City. Dave Bautista plays the show’s stage manager, who must deliver the news to the dancers that their act will close permanently in two weeks. “Mad Men” star Kiernan Shipka and Brenda Song are the next-gen dancers who perform alongside Anderson, while Billie Lourd portrays her estranged daughter. Recent Oscar winner Jamie Lee Curtis, with a perma-tan and frosted lipstick, brings the comic relief as a Vegas cocktail waitress who must endure"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni64809045",
+            "byline": "Jordan Moreau",
+            "date": "2024-09-06T15:19:30Z",
+            "externalUrl": "https://variety.com/2024/film/box-office/box-office-beetlejuice-2-previews-1236132258/",
+            "articleTitle": {
+              "plainText": "US Box Office: ‘Beetlejuice 2’ Makes $13 Million in Previews"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm4070732289",
+              "url": "https://m.media-amazon.com/images/M/MV5BZGI0Yjg0NWUtM2VkYi00MzRlLTkzNjUtNGJiM2Y0NzRhNmRhXkEyXkFqcGc@._V1_.jpg",
+              "height": 2160,
+              "width": 3996
+            },
+            "text": {
+              "plainText": "A lot of people must be saying his name three times, because Beetlejuice is taking over the box office.\n\nThe long awaited sequel “Beetlejuice Beetlejuice,” directed by Tim Burton and starring Michael Keaton, Winona Ryder and Jenna Ortega, has made $13 million at the box office so far in Thursday previews.\n\nThe horror comedy is ready to take over the box office, after a slow end to August, with an estimated $100 million to $110 million opening this weekend. That’s a scary good debut, since the film carries a production budget of $100 million. However, Warner Bros. is predicting a softer opening around $90 million — but many box office experts are predicting it’ll cross the $100 million mark. The film could even land among the biggest opening weekends ever for the month of September, putting Beetlejuice shoulder to shoulder with Pennywise the Clown in 2017’s “It” ($123 million opening) and 2019’s “It: Chapter 2” ($91 million"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni64809043",
+            "byline": "Ethan Shanfeld",
+            "date": "2024-09-06T15:45:00Z",
+            "externalUrl": "https://variety.com/2024/film/news/jimi-hendrix-documentary-greatest-night-in-pop-director-1236133092/",
+            "articleTitle": {
+              "plainText": "Jimi Hendrix Documentary in the Works From ‘Greatest Night in Pop’ Director"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm611135745",
+              "url": "https://m.media-amazon.com/images/M/MV5BNDEzOGRiMTUtZTE4Ni00YjYzLWI1ZjUtOTZlOWNlMDc3ODljXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "height": 1432,
+              "width": 1418
+            },
+            "text": {
+              "plainText": "“The Greatest Night in Pop” director Bao Nguyen has found his next music-themed project: a feature-length documentary about Jimi Hendrix.\n\n“Jimi,” from Double Agent, Network Entertainment and Experience Hendrix, is the first full-length doc about the iconic rock star that is authorized by his estate.\n\nAccording to a press release, the film “will tell the story of a transformational period in music history when Jimi Hendrix set the world — and his guitar — on fire.” It will follow the young Hendrix’s rise to rock ‘n’ roll stardom in the 1960s as he wowed audiences in London before heading back to the U.S. for his breakthrough psychedelic master class at the Monterey Pop Festival in 1967.\n\n“Jimi’s time in London was some of the most pivotal in his life journey and his musical career. The social scene, night life that often bled into day, connections made, decisions on where he"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni64808981",
+            "byline": null,
+            "date": "2024-09-06T16:26:00Z",
+            "externalUrl": "https://comicbookmovie.com/tv/marvel/armor-wars-/armor-wars-done-cheadle-gives-hilariously-blunt-response-when-asked-for-an-update-on-mcu-movie-a213028",
+            "articleTitle": {
+              "plainText": "Armor Wars: Done Cheadle Gives Hilariously Blunt Response When Asked For An Update On MCU Movie"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3010030593",
+              "url": "https://m.media-amazon.com/images/M/MV5BYTI0OTE5OWMtMzU5Yi00ZmI5LTgyZjItNzg2ZDMxZGRmZDBmXkEyXkFqcGc@._V1_.jpg",
+              "height": 844,
+              "width": 1509
+            },
+            "text": {
+              "plainText": "We haven't had many (any?) official updates on Armor Wars since Marvel Studios announced that the project was being developed as a feature back in 2022, but a recent rumor did claim that the studio has yet to make a \"final decision\" on the movie one way or the other, and could still choose not to movie forward.\n\nDon Cheadle - who is, as far as we know, still attached to star as James \"Rhodey\" Rhodes/War Machine - was asked if he could share any news on the project during an appearance on the Today Show, and gave what could be perceived as a very telling response.\n\n\"What's Armor Wars?,\" the actor asked with a smile, before adding that it's basically an \"I could tell you but I'd have to kill you\" situation.\n\nAside from being a great way to shut down the question, this does suggest that there is something to discuss,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.ComicBookMovie.com",
+                "label": "ComicBookMovie.com"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni64808764",
+            "byline": "Etan Vlessing",
+            "date": "2024-09-06T13:48:09Z",
+            "externalUrl": "https://www.hollywoodreporter.com/movies/movie-news/alex-ross-perry-pavements-utopia-1235993259/",
+            "articleTitle": {
+              "plainText": "Alex Ross Perry’s ‘Pavements’ Lands at Utopia After Venice Bow"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2168273408",
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYyODg0NjgwNV5BMl5BanBnXkFtZTgwMjI3NDE5MDI@._V1_.jpg",
+              "height": 2048,
+              "width": 1451
+            },
+            "text": {
+              "plainText": "Utopia has picked up the U.S. rights to Pavements, director Alex Ross Perry’s musical portrait of the 1990s al-rock band a day after a world premiere in Venice earlier this week.\n\n“One of our favorite filmmakers, one of our favorite bands, Pavements joining Utopia is simply a dream come true. The band’s iconic status has only continued to blossom out of the ’90s and Alex has crafted a film that transcends documentary and questions what the format can be in a surprising and novel way,” Utopia head of marketing and distribution Kyle Greenberg said in a statement on Friday.\n\nPavements will also have a North American premiere at the New York Film Festival. The musical biopic tracks the influential rock band as they prepare for a 2022 reunion tour in the prism of their earlier accomplishments.\n\n“This multifaceted meta-movie is at once documentary, musical comedy, faux biopic and real museum exhibition."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni64811787",
+            "byline": "Diego Ramos Bechara",
+            "date": "2024-09-07T21:10:00Z",
+            "externalUrl": "https://variety.com/2024/film/news/elton-john-eye-infection-update-1236136750/",
+            "articleTitle": {
+              "plainText": "Elton John Says Eye Infection Has Been ‘Distressing’: ‘It’s Been 7 Weeks Since I’ve Been Able to See’ Fully"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm1111649281",
+              "url": "https://m.media-amazon.com/images/M/MV5BZjA1ZmYyOTUtNTcyYy00MDUwLWI4NTEtOWJhNzE2MDU5YWRkXkEyXkFqcGc@._V1_.jpg",
+              "height": 2670,
+              "width": 4000
+            },
+            "text": {
+              "plainText": "Elton John, who’s been recovering from a severe eye infection that left him with “limited vision in one eye,” provided an update on his condition when he stopped by Variety’s studio at the 2024 Toronto International Film Festival.\n\nJohn was there to tout his new documentary, “Elton John: Never Too Late,” which captures the music man’s journey to becoming one of the world’s biggest rock stars, bookended by his landmark performances at Dodger Stadium in Los Angeles in 1975 to more than 100,000 fans and again in 2022 as the final North American stop on his “Farewell Yellow Brick Road” tour.\n\nJohn confessed he couldn’t watch the screening at the festival because of how limited his vision due to his infection: “I couldn’t really see it because of my eye, but I sensed it. I’d seen it before. I don’t know. Seeing it with an audience"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni64811780",
+            "byline": "Xan Brooks",
+            "date": "2024-09-07T20:54:46Z",
+            "externalUrl": "https://www.theguardian.com/film/article/2024/sep/07/venice-2024-almodovars-first-major-festival-win-is-richly-deserved-and-epically-overdue",
+            "articleTitle": {
+              "plainText": "Venice 2024: Almodóvar’s first major festival win is richly deserved – and epically overdue"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2776786945",
+              "url": "https://m.media-amazon.com/images/M/MV5BYzk2MjI1YTgtOTcxYS00OTUyLTgyOTAtMGE0OGYyMjc0MTc3XkEyXkFqcGc@._V1_.jpg",
+              "height": 2866,
+              "width": 1934
+            },
+            "text": {
+              "plainText": "At 74, Spain’s finest director has won the Golden Lion – incredibly, his first major victory at a film festival – for his debut English language feature. Better late than never, even if The Room Next Door isn’t quite his finest work\n\nPedro Almodóvar’s The Room Next Door is a tender, heartfelt drama about a driven former war correspondent who’s in search of the perfect final scene. She wants an ending that she can script and control, and a handpicked loving audience to applaud her when she goes.\n\nAs played by Tilda Swinton, the heroine doesn’t have it entirely her own way. But the film itself has fared rather better. It bowed out in a blaze of glory and scooped the crowning Golden Lion award in the dying seconds of this year’s Venice film festival."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.guardian.co.uk/film",
+                "label": "The Guardian - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni64811773",
+            "byline": "Devin Meenan",
+            "date": "2024-09-07T20:45:50Z",
+            "externalUrl": "https://www.slashfilm.com/1655628/vinland-saga-anime-10-best-episodes-ranked/",
+            "articleTitle": {
+              "plainText": "The 10 Best Episodes Of The Vinland Saga Anime, Ranked"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2789370881",
+              "url": "https://m.media-amazon.com/images/M/MV5BODYwNmQ1Y2YtN2QyYi00N2JhLWIzMmEtZmU2ZmIyOTE3OThkXkEyXkFqcGc@._V1_.jpg",
+              "height": 438,
+              "width": 780
+            },
+            "text": {
+              "plainText": "\"Vinland Saga\" brings the era of the Vikings to the realm of anime. The titular \"Vinland\" is the name that Viking explorer Leif Erikson gave to North America after reaching its shores, and in the series, that far off land represents a wish to escape to a better place than where you currently stand. The show is set in the early 11th century during the Danish subjugation of England, and explores how someone could become a pacifist in such a violent world.\n\nThe answer: Thorfinn, introduced as a young boy living in Iceland. Like all boys, he likes playing war — until he sees the real thing when his father, Thors, is murdered by the Viking Askeladd. The orphaned Thorfinn joins Askeladd's band, choosing a life of violence to earn a duel with the man he hates. Thors, a former warrior who'd vowed never to kill again, would never have wanted"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.slashfilm.com",
+                "label": "Slash Film"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni64811686",
+            "byline": "Marya E. Gates",
+            "date": "2024-09-07T20:30:00Z",
+            "externalUrl": "https://www.indiewire.com/criticism/movies/mr-k-review-crispin-glover-1235044934/",
+            "articleTitle": {
+              "plainText": "‘Mr. K’ Review: A Winning Crispin Glover Stars in Surreal Tale About Absurdity of Life"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm1128360961",
+              "url": "https://m.media-amazon.com/images/M/MV5BZDg1ODBjYjgtODk0MS00MWVmLTllMGItMDQwNDEwMGMxY2ZiXkEyXkFqcGc@._V1_.jpg",
+              "height": 600,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "“Every human being is a universe within themselves floating about in eternal darkness, aimless, lonely . . so lonely. Or maybe it’s just me”\n\nWe quickly learn these are the words of a traveling magician, the titular “Mr. K” (Crispin Glover), the first of several nods to the singular writer Franz Kafka. He performs his outdated magic in outdated clubs filled with diners who are too busy concentrating on their meals and conversation to pay attention to his wondrous craft. After packing up his battered bag of ticks, he leaves the dreary cafe, finding himself outside a decaying Victorian estate.\n\nWriter-director Tallulah H. Schwab focuses on the tactility of the landscape around this estate. The verdant greens of the grass. The rustling of the leaves in the trees. You can even hear the ants as they crawl through the ruddy earth. The camera zooms closely on the insects, until their universe fills up the whole frame."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.indiewire.com",
+                "label": "Indiewire"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni64811644",
+            "byline": "Owen Gleiberman",
+            "date": "2024-09-07T20:12:02Z",
+            "externalUrl": "https://variety.com/2024/film/reviews/elton-john-never-too-late-review-tiff-1236136412/",
+            "articleTitle": {
+              "plainText": "‘Elton John: Never Too Late’ Review: The Original King of Pop Gets the Satisfying Documentary He Deserves"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm933719553",
+              "url": "https://m.media-amazon.com/images/M/MV5BZjEwNjk3YzgtZTRlMC00NWUwLTk0ZDctMTBhNzk4OWZlZGQyXkEyXkFqcGc@._V1_.jpg",
+              "height": 667,
+              "width": 1000
+            },
+            "text": {
+              "plainText": "There’s a moment in “Elton John: Never Too Late,” a robustly satisfying and emotional documentary about the life and career of Elton John, that captures him, in a most revealing way, in his ’70s heyday.\n\nIt’s a clip from a television interview, in which Elton is explaining how he writes a song. The clip must be from 1971, and Elton, still looking like a puppy child, with rectangle-framed glasses and plenty of shaggy hair, sits at an upright piano and brings out a sheaf of lyrics — pages all written in longhand by his collaborator, Bernie Taupin. Elton wants to show us his method, so he talks about a song he just wrote, called “Tiny Dancer,” and finds the lyrics to it. He explains how he scanned through them and realized, when he saw the word “ballerina,” that it would have to be a slow-tempo song. He demonstrates how he kind of improvised the chords."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        }
+      ],
+      "total": 868332,
+      "pageInfo": {
+        "__typename": "NewsPageInfo",
+        "hasNextPage": true,
+        "endCursor": "NjQ4MTE2NDV8MjAyNC0wOS0wNyAyMDowNDoyNQ"
+      }
+    }
+  }
+}

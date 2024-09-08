@@ -1,0 +1,24 @@
+{
+  "data": {
+    "title": {
+      "id": "tt0120338",
+      "titleGenres": {
+        "__typename": "TitleGenres",
+        "genres": [
+          { "genre": { "genreId": "Drama", "text": "Drama" } },
+          { "genre": { "genreId": "Romance", "text": "Romance" } }
+        ]
+      },
+      "titleType": {
+        "__typename": "TitleType",
+        "id": "movie",
+        "text": "Movie",
+        "categories": [{ "id": "movie", "text": "Movie", "value": "movie" }],
+        "canHaveEpisodes": false,
+        "isEpisode": false,
+        "isSeries": false,
+        "displayableProperty": { "value": { "plainText": "" } }
+      }
+    }
+  }
+}

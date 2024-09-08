@@ -1,0 +1,1448 @@
+{
+  "data": {
+    "mainSearch": {
+      "edges": [
+        {
+          "node": {
+            "entity": {
+              "__typename": "Name",
+              "id": "nm0000129",
+              "nameText": { "text": "Tom Cruise" },
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm3157463809",
+                "url": "https://m.media-amazon.com/images/M/MV5BYTFlOTdjMjgtNmY0ZC00MDgxLThjNmEtZGIxZTQyZDdkMTRjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+                "height": 5122,
+                "width": 3795
+              },
+              "knownFor": {
+                "edges": [
+                  {
+                    "node": {
+                      "title": {
+                        "__typename": "Title",
+                        "id": "tt0092099",
+                        "titleText": {
+                          "text": "Top Gun",
+                          "isOriginalTitle": true
+                        },
+                        "originalTitleText": {
+                          "text": "Top Gun",
+                          "isOriginalTitle": true
+                        },
+                        "releaseYear": {
+                          "__typename": "YearRange",
+                          "year": 1986,
+                          "endYear": null
+                        },
+                        "releaseDate": {
+                          "__typename": "ReleaseDate",
+                          "month": 5,
+                          "day": 16,
+                          "year": 1986,
+                          "country": { "id": "US" },
+                          "restriction": null,
+                          "attributes": [],
+                          "displayableProperty": {
+                            "qualifiersInMarkdownList": null
+                          }
+                        },
+                        "titleType": {
+                          "__typename": "TitleType",
+                          "id": "movie",
+                          "text": "Movie",
+                          "categories": [
+                            { "id": "movie", "text": "Movie", "value": "movie" }
+                          ],
+                          "canHaveEpisodes": false,
+                          "isEpisode": false,
+                          "isSeries": false,
+                          "displayableProperty": {
+                            "value": { "plainText": "" }
+                          }
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm2145457920",
+                          "url": "https://m.media-amazon.com/images/M/MV5BZjQxYTA3ODItNzgxMy00N2Y2LWJlZGMtMTRlM2JkZjI1ZDhhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+                          "height": 1600,
+                          "width": 1035
+                        },
+                        "ratingsSummary": { "aggregateRating": 6.9 }
+                      },
+                      "credit": {
+                        "__typename": "Cast",
+                        "category": { "id": "actor", "text": "Actor" },
+                        "characters": [{ "name": "Maverick" }]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Name",
+              "id": "nm8230657",
+              "nameText": { "text": "Tom Cruise Jr." },
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm388042753",
+                "url": "https://m.media-amazon.com/images/M/MV5BYzI4NzJiODktNzVlOS00ZmRiLTgyZDgtNzkzOTA3ZTNkYzM2XkEyXkFqcGc@._V1_.jpg",
+                "height": 1425,
+                "width": 1198
+              },
+              "knownFor": {
+                "edges": [
+                  {
+                    "node": {
+                      "title": {
+                        "__typename": "Title",
+                        "id": "tt5509852",
+                        "titleText": {
+                          "text": "The Fourth Annual 'on Cinema' Oscar Special",
+                          "isOriginalTitle": false
+                        },
+                        "originalTitleText": {
+                          "text": "The Fourth Annual 'On Cinema' Oscar Special",
+                          "isOriginalTitle": true
+                        },
+                        "releaseYear": {
+                          "__typename": "YearRange",
+                          "year": 2016,
+                          "endYear": null
+                        },
+                        "releaseDate": {
+                          "__typename": "ReleaseDate",
+                          "month": 2,
+                          "day": 28,
+                          "year": 2016,
+                          "country": { "id": "US" },
+                          "restriction": null,
+                          "attributes": [],
+                          "displayableProperty": {
+                            "qualifiersInMarkdownList": null
+                          }
+                        },
+                        "titleType": {
+                          "__typename": "TitleType",
+                          "id": "video",
+                          "text": "Video",
+                          "categories": [
+                            { "id": "video", "text": "Video", "value": "video" }
+                          ],
+                          "canHaveEpisodes": false,
+                          "isEpisode": false,
+                          "isSeries": false,
+                          "displayableProperty": {
+                            "value": { "plainText": "Video" }
+                          }
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm892221952",
+                          "url": "https://m.media-amazon.com/images/M/MV5BOGUwYmFmYzUtYjRmMC00YjdkLTkyZDktYjQyZDNmMGExOGI2XkEyXkFqcGc@._V1_.jpg",
+                          "height": 720,
+                          "width": 1280
+                        },
+                        "ratingsSummary": { "aggregateRating": 8.9 }
+                      },
+                      "credit": {
+                        "__typename": "Cast",
+                        "category": { "id": "actor", "text": "Actor" },
+                        "characters": [{ "name": "Tom Cruise Jr." }]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Name",
+              "id": "nm11170870",
+              "nameText": { "text": "Keekre' Tom Cruise'" },
+              "primaryImage": null,
+              "knownFor": {
+                "edges": [
+                  {
+                    "node": {
+                      "title": {
+                        "__typename": "Title",
+                        "id": "tt11370448",
+                        "titleText": {
+                          "text": "A Crossover with Destiny",
+                          "isOriginalTitle": true
+                        },
+                        "originalTitleText": {
+                          "text": "A Crossover with Destiny",
+                          "isOriginalTitle": true
+                        },
+                        "releaseYear": {
+                          "__typename": "YearRange",
+                          "year": 2017,
+                          "endYear": null
+                        },
+                        "releaseDate": {
+                          "__typename": "ReleaseDate",
+                          "month": 7,
+                          "day": 31,
+                          "year": 2017,
+                          "country": { "id": "US" },
+                          "restriction": null,
+                          "attributes": [],
+                          "displayableProperty": {
+                            "qualifiersInMarkdownList": null
+                          }
+                        },
+                        "titleType": {
+                          "__typename": "TitleType",
+                          "id": "video",
+                          "text": "Video",
+                          "categories": [
+                            { "id": "video", "text": "Video", "value": "video" }
+                          ],
+                          "canHaveEpisodes": false,
+                          "isEpisode": false,
+                          "isSeries": false,
+                          "displayableProperty": {
+                            "value": { "plainText": "Video" }
+                          }
+                        },
+                        "primaryImage": null,
+                        "ratingsSummary": { "aggregateRating": null }
+                      },
+                      "credit": {
+                        "__typename": "Cast",
+                        "category": { "id": "actor", "text": "Actor" },
+                        "characters": [{ "name": "ThomasWoodenRailway" }]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Name",
+              "id": "nm11136912",
+              "nameText": { "text": "Not Tom Cruise" },
+              "primaryImage": null,
+              "knownFor": {
+                "edges": [
+                  {
+                    "node": {
+                      "title": {
+                        "__typename": "Title",
+                        "id": "tt11017812",
+                        "titleText": {
+                          "text": "The Bachelor Party: It's a Wonderful Lifestyle (The Rise of Showstopper)",
+                          "isOriginalTitle": true
+                        },
+                        "originalTitleText": {
+                          "text": "The Bachelor Party: It's a Wonderful Lifestyle (The Rise of Showstopper)",
+                          "isOriginalTitle": true
+                        },
+                        "releaseYear": {
+                          "__typename": "YearRange",
+                          "year": 2019,
+                          "endYear": null
+                        },
+                        "releaseDate": {
+                          "__typename": "ReleaseDate",
+                          "month": 11,
+                          "day": 23,
+                          "year": 2019,
+                          "country": { "id": "US" },
+                          "restriction": null,
+                          "attributes": [
+                            {
+                              "id": "Los Angeles, California",
+                              "text": "Los Angeles, California"
+                            },
+                            { "id": "premiere", "text": "premiere" }
+                          ],
+                          "displayableProperty": {
+                            "qualifiersInMarkdownList": null
+                          }
+                        },
+                        "titleType": {
+                          "__typename": "TitleType",
+                          "id": "movie",
+                          "text": "Movie",
+                          "categories": [
+                            { "id": "movie", "text": "Movie", "value": "movie" }
+                          ],
+                          "canHaveEpisodes": false,
+                          "isEpisode": false,
+                          "isSeries": false,
+                          "displayableProperty": {
+                            "value": { "plainText": "" }
+                          }
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm2375190273",
+                          "url": "https://m.media-amazon.com/images/M/MV5BODhmMGNmZjUtZDQxNS00MGI0LTgxYjYtNzRkMWUyMmE3OWEyXkEyXkFqcGc@._V1_.jpg",
+                          "height": 2400,
+                          "width": 1579
+                        },
+                        "ratingsSummary": { "aggregateRating": 3.7 }
+                      },
+                      "credit": {
+                        "__typename": "Cast",
+                        "category": { "id": "actor", "text": "Actor" },
+                        "characters": [{ "name": "Tom Cruise" }]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Name",
+              "id": "nm7182448",
+              "nameText": { "text": "Sibs Shongwe-La Mer" },
+              "primaryImage": null,
+              "knownFor": {
+                "edges": [
+                  {
+                    "node": {
+                      "title": {
+                        "__typename": "Title",
+                        "id": "tt4515662",
+                        "titleText": {
+                          "text": "Necktie Youth",
+                          "isOriginalTitle": true
+                        },
+                        "originalTitleText": {
+                          "text": "Necktie Youth",
+                          "isOriginalTitle": true
+                        },
+                        "releaseYear": {
+                          "__typename": "YearRange",
+                          "year": 2015,
+                          "endYear": null
+                        },
+                        "releaseDate": {
+                          "__typename": "ReleaseDate",
+                          "month": 9,
+                          "day": 24,
+                          "year": 2015,
+                          "country": { "id": "ZA" },
+                          "restriction": null,
+                          "attributes": [],
+                          "displayableProperty": {
+                            "qualifiersInMarkdownList": null
+                          }
+                        },
+                        "titleType": {
+                          "__typename": "TitleType",
+                          "id": "movie",
+                          "text": "Movie",
+                          "categories": [
+                            { "id": "movie", "text": "Movie", "value": "movie" }
+                          ],
+                          "canHaveEpisodes": false,
+                          "isEpisode": false,
+                          "isSeries": false,
+                          "displayableProperty": {
+                            "value": { "plainText": "" }
+                          }
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm2744720896",
+                          "url": "https://m.media-amazon.com/images/M/MV5BOWNiY2ZjZGUtMTc1Yy00MTAwLWFiMDYtZmE5ZGRlOTJhYjAwXkEyXkFqcGc@._V1_.jpg",
+                          "height": 960,
+                          "width": 672
+                        },
+                        "ratingsSummary": { "aggregateRating": 6.5 }
+                      },
+                      "credit": {
+                        "__typename": "Crew",
+                        "category": { "id": "director", "text": "Director" }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Name",
+              "id": "nm1731765",
+              "nameText": { "text": "Tom Cruse" },
+              "primaryImage": null,
+              "knownFor": {
+                "edges": [
+                  {
+                    "node": {
+                      "title": {
+                        "__typename": "Title",
+                        "id": "tt0426510",
+                        "titleText": {
+                          "text": "Legion: The Legend of Excalibur",
+                          "isOriginalTitle": true
+                        },
+                        "originalTitleText": {
+                          "text": "Legion: The Legend of Excalibur",
+                          "isOriginalTitle": true
+                        },
+                        "releaseYear": {
+                          "__typename": "YearRange",
+                          "year": 2002,
+                          "endYear": null
+                        },
+                        "releaseDate": {
+                          "__typename": "ReleaseDate",
+                          "month": 6,
+                          "day": 18,
+                          "year": 2002,
+                          "country": { "id": "US" },
+                          "restriction": null,
+                          "attributes": [],
+                          "displayableProperty": {
+                            "qualifiersInMarkdownList": null
+                          }
+                        },
+                        "titleType": {
+                          "__typename": "TitleType",
+                          "id": "videoGame",
+                          "text": "Video Game",
+                          "categories": [
+                            {
+                              "id": "gaming",
+                              "text": "Gaming",
+                              "value": "gaming"
+                            }
+                          ],
+                          "canHaveEpisodes": false,
+                          "isEpisode": false,
+                          "isSeries": false,
+                          "displayableProperty": {
+                            "value": { "plainText": "Video Game" }
+                          }
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm1820594176",
+                          "url": "https://m.media-amazon.com/images/M/MV5BNmE5YmI4NjQtYjk2MS00Njg4LWI3NTktZDA2ZTVlOGE1YjI4XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg",
+                          "height": 1148,
+                          "width": 800
+                        },
+                        "ratingsSummary": { "aggregateRating": 7.2 }
+                      },
+                      "credit": {
+                        "__typename": "Cast",
+                        "category": { "id": "actor", "text": "Actor" },
+                        "characters": null
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Name",
+              "id": "nm4770479",
+              "nameText": { "text": "Tom Craine" },
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm990266880",
+                "url": "https://m.media-amazon.com/images/M/MV5BMWVmN2UxOWYtMmVhNS00YjI0LThmOWEtMjBhYmRjZGNjMDkyXkEyXkFqcGc@._V1_.jpg",
+                "height": 5616,
+                "width": 3744
+              },
+              "knownFor": {
+                "edges": [
+                  {
+                    "node": {
+                      "title": {
+                        "__typename": "Title",
+                        "id": "tt8755818",
+                        "titleText": {
+                          "text": "Hypothetical",
+                          "isOriginalTitle": true
+                        },
+                        "originalTitleText": {
+                          "text": "Hypothetical",
+                          "isOriginalTitle": true
+                        },
+                        "releaseYear": {
+                          "__typename": "YearRange",
+                          "year": 2019,
+                          "endYear": 2022
+                        },
+                        "releaseDate": {
+                          "__typename": "ReleaseDate",
+                          "month": 2,
+                          "day": 6,
+                          "year": 2019,
+                          "country": { "id": "GB" },
+                          "restriction": null,
+                          "attributes": [],
+                          "displayableProperty": {
+                            "qualifiersInMarkdownList": null
+                          }
+                        },
+                        "titleType": {
+                          "__typename": "TitleType",
+                          "id": "tvSeries",
+                          "text": "TV Series",
+                          "categories": [
+                            { "id": "tv", "text": "TV", "value": "tv" }
+                          ],
+                          "canHaveEpisodes": true,
+                          "isEpisode": false,
+                          "isSeries": true,
+                          "displayableProperty": {
+                            "value": { "plainText": "TV Series" }
+                          }
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm2700782081",
+                          "url": "https://m.media-amazon.com/images/M/MV5BNjU5NGUzYmYtNmJlMy00ZTYxLTg0NzktNGQ2Nzc5NWY4NWI3XkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_.jpg",
+                          "height": 1000,
+                          "width": 680
+                        },
+                        "ratingsSummary": { "aggregateRating": 6.6 }
+                      },
+                      "credit": {
+                        "__typename": "Crew",
+                        "category": { "id": "writer", "text": "Writer" }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Name",
+              "id": "nm0273921",
+              "nameText": { "text": "Evan Ferrante" },
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm1303613952",
+                "url": "https://m.media-amazon.com/images/M/MV5BMTIyMDU1MTE2OF5BMl5BanBnXkFtZTcwMzg2MzMzMQ@@._V1_.jpg",
+                "height": 312,
+                "width": 450
+              },
+              "knownFor": {
+                "edges": [
+                  {
+                    "node": {
+                      "title": {
+                        "__typename": "Title",
+                        "id": "tt5895744",
+                        "titleText": {
+                          "text": "Top Son",
+                          "isOriginalTitle": true
+                        },
+                        "originalTitleText": {
+                          "text": "Top Son",
+                          "isOriginalTitle": true
+                        },
+                        "releaseYear": {
+                          "__typename": "YearRange",
+                          "year": 2016,
+                          "endYear": null
+                        },
+                        "releaseDate": {
+                          "__typename": "ReleaseDate",
+                          "month": 7,
+                          "day": 19,
+                          "year": 2016,
+                          "country": { "id": "US" },
+                          "restriction": null,
+                          "attributes": [
+                            { "id": "limited", "text": "limited" }
+                          ],
+                          "displayableProperty": {
+                            "qualifiersInMarkdownList": null
+                          }
+                        },
+                        "titleType": {
+                          "__typename": "TitleType",
+                          "id": "short",
+                          "text": "Short",
+                          "categories": [
+                            { "id": "movie", "text": "Movie", "value": "movie" }
+                          ],
+                          "canHaveEpisodes": false,
+                          "isEpisode": false,
+                          "isSeries": false,
+                          "displayableProperty": {
+                            "value": { "plainText": "Short" }
+                          }
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm3117834752",
+                          "url": "https://m.media-amazon.com/images/M/MV5BNjhjNWU5MTktODk3NS00OTA5LThiN2MtMDBjY2I2NTNmMjEzXkEyXkFqcGdeQXVyMjAzMDQwNzk@._V1_.jpg",
+                          "height": 1600,
+                          "width": 1200
+                        },
+                        "ratingsSummary": { "aggregateRating": 6.5 }
+                      },
+                      "credit": {
+                        "__typename": "Cast",
+                        "category": { "id": "actor", "text": "Actor" },
+                        "characters": [{ "name": "Mike Giavotella" }]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Name",
+              "id": "nm6498271",
+              "nameText": { "text": "Com Truise" },
+              "primaryImage": null,
+              "knownFor": {
+                "edges": [
+                  {
+                    "node": {
+                      "title": {
+                        "__typename": "Title",
+                        "id": "tt2217859",
+                        "titleText": {
+                          "text": "Louder Than Bombs",
+                          "isOriginalTitle": true
+                        },
+                        "originalTitleText": {
+                          "text": "Louder Than Bombs",
+                          "isOriginalTitle": true
+                        },
+                        "releaseYear": {
+                          "__typename": "YearRange",
+                          "year": 2015,
+                          "endYear": null
+                        },
+                        "releaseDate": {
+                          "__typename": "ReleaseDate",
+                          "month": 10,
+                          "day": 2,
+                          "year": 2015,
+                          "country": { "id": "NO" },
+                          "restriction": null,
+                          "attributes": [],
+                          "displayableProperty": {
+                            "qualifiersInMarkdownList": null
+                          }
+                        },
+                        "titleType": {
+                          "__typename": "TitleType",
+                          "id": "movie",
+                          "text": "Movie",
+                          "categories": [
+                            { "id": "movie", "text": "Movie", "value": "movie" }
+                          ],
+                          "canHaveEpisodes": false,
+                          "isEpisode": false,
+                          "isSeries": false,
+                          "displayableProperty": {
+                            "value": { "plainText": "" }
+                          }
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm3724482560",
+                          "url": "https://m.media-amazon.com/images/M/MV5BMTc0MTQxMDY2OV5BMl5BanBnXkFtZTgwNTIwNTgxODE@._V1_.jpg",
+                          "height": 6000,
+                          "width": 4050
+                        },
+                        "ratingsSummary": { "aggregateRating": 6.6 }
+                      },
+                      "credit": {
+                        "__typename": "Crew",
+                        "category": { "id": "soundtrack", "text": "Soundtrack" }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Name",
+              "id": "nm3049715",
+              "nameText": { "text": "Tim Bruised Head" },
+              "primaryImage": null,
+              "knownFor": {
+                "edges": [
+                  {
+                    "node": {
+                      "title": {
+                        "__typename": "Title",
+                        "id": "tt3581920",
+                        "titleText": {
+                          "text": "The Last of Us",
+                          "isOriginalTitle": true
+                        },
+                        "originalTitleText": {
+                          "text": "The Last of Us",
+                          "isOriginalTitle": true
+                        },
+                        "releaseYear": {
+                          "__typename": "YearRange",
+                          "year": 2023,
+                          "endYear": null
+                        },
+                        "releaseDate": {
+                          "__typename": "ReleaseDate",
+                          "month": 1,
+                          "day": 15,
+                          "year": 2023,
+                          "country": { "id": "US" },
+                          "restriction": null,
+                          "attributes": [
+                            { "id": "internet", "text": "internet" }
+                          ],
+                          "displayableProperty": {
+                            "qualifiersInMarkdownList": null
+                          }
+                        },
+                        "titleType": {
+                          "__typename": "TitleType",
+                          "id": "tvSeries",
+                          "text": "TV Series",
+                          "categories": [
+                            { "id": "tv", "text": "TV", "value": "tv" }
+                          ],
+                          "canHaveEpisodes": true,
+                          "isEpisode": false,
+                          "isSeries": true,
+                          "displayableProperty": {
+                            "value": { "plainText": "TV Series" }
+                          }
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm553794049",
+                          "url": "https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_.jpg",
+                          "height": 4000,
+                          "width": 2700
+                        },
+                        "ratingsSummary": { "aggregateRating": 8.7 }
+                      },
+                      "credit": {
+                        "__typename": "Crew",
+                        "category": { "id": "stunts", "text": "Stunts" }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Name",
+              "id": "nm9592614",
+              "nameText": { "text": "Sam Cruise" },
+              "primaryImage": null,
+              "knownFor": {
+                "edges": [
+                  {
+                    "node": {
+                      "title": {
+                        "__typename": "Title",
+                        "id": "tt5021522",
+                        "titleText": {
+                          "text": "The Web",
+                          "isOriginalTitle": true
+                        },
+                        "originalTitleText": {
+                          "text": "The Web",
+                          "isOriginalTitle": true
+                        },
+                        "releaseYear": {
+                          "__typename": "YearRange",
+                          "year": 2013,
+                          "endYear": null
+                        },
+                        "releaseDate": {
+                          "__typename": "ReleaseDate",
+                          "month": 7,
+                          "day": 9,
+                          "year": 2014,
+                          "country": { "id": "US" },
+                          "restriction": null,
+                          "attributes": [
+                            { "id": "internet", "text": "internet" }
+                          ],
+                          "displayableProperty": {
+                            "qualifiersInMarkdownList": null
+                          }
+                        },
+                        "titleType": {
+                          "__typename": "TitleType",
+                          "id": "short",
+                          "text": "Short",
+                          "categories": [
+                            { "id": "movie", "text": "Movie", "value": "movie" }
+                          ],
+                          "canHaveEpisodes": false,
+                          "isEpisode": false,
+                          "isSeries": false,
+                          "displayableProperty": {
+                            "value": { "plainText": "Short" }
+                          }
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm627061761",
+                          "url": "https://m.media-amazon.com/images/M/MV5BYzE3ZmY0NjctMmZhZS00OTI1LWI3YWEtMjNmZGU4ZDdlMTMzXkEyXkFqcGc@._V1_.jpg",
+                          "height": 1384,
+                          "width": 926
+                        },
+                        "ratingsSummary": { "aggregateRating": 9.1 }
+                      },
+                      "credit": {
+                        "__typename": "Cast",
+                        "category": { "id": "actor", "text": "Actor" },
+                        "characters": [{ "name": "Customer #69" }]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Name",
+              "id": "nm9844470",
+              "nameText": { "text": "Joachim Cruise" },
+              "primaryImage": null,
+              "knownFor": {
+                "edges": [
+                  {
+                    "node": {
+                      "title": {
+                        "__typename": "Title",
+                        "id": "tt8426838",
+                        "titleText": {
+                          "text": "Jurassic Bark",
+                          "isOriginalTitle": true
+                        },
+                        "originalTitleText": {
+                          "text": "Jurassic Bark",
+                          "isOriginalTitle": true
+                        },
+                        "releaseYear": {
+                          "__typename": "YearRange",
+                          "year": 2018,
+                          "endYear": null
+                        },
+                        "releaseDate": {
+                          "__typename": "ReleaseDate",
+                          "month": 9,
+                          "day": 11,
+                          "year": 2018,
+                          "country": { "id": "US" },
+                          "restriction": null,
+                          "attributes": [],
+                          "displayableProperty": {
+                            "qualifiersInMarkdownList": null
+                          }
+                        },
+                        "titleType": {
+                          "__typename": "TitleType",
+                          "id": "movie",
+                          "text": "Movie",
+                          "categories": [
+                            { "id": "movie", "text": "Movie", "value": "movie" }
+                          ],
+                          "canHaveEpisodes": false,
+                          "isEpisode": false,
+                          "isSeries": false,
+                          "displayableProperty": {
+                            "value": { "plainText": "" }
+                          }
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm391922176",
+                          "url": "https://m.media-amazon.com/images/M/MV5BNmM3ZTczYzMtMjBlYS00NzkwLWJmY2EtZmNhYzE4MWExMTY3XkEyXkFqcGdeQXVyMjM3NDgxNw@@._V1_.jpg",
+                          "height": 2333,
+                          "width": 1712
+                        },
+                        "ratingsSummary": { "aggregateRating": 1.4 }
+                      },
+                      "credit": {
+                        "__typename": "Cast",
+                        "category": { "id": "actor", "text": "Actor" },
+                        "characters": null
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Name",
+              "id": "nm11888321",
+              "nameText": { "text": "Tom Brusse" },
+              "primaryImage": null,
+              "knownFor": {
+                "edges": [
+                  {
+                    "node": {
+                      "title": {
+                        "__typename": "Title",
+                        "id": "tt12409054",
+                        "titleText": {
+                          "text": "La Casa Fuerte",
+                          "isOriginalTitle": true
+                        },
+                        "originalTitleText": {
+                          "text": "La Casa Fuerte",
+                          "isOriginalTitle": true
+                        },
+                        "releaseYear": {
+                          "__typename": "YearRange",
+                          "year": 2020,
+                          "endYear": 2020
+                        },
+                        "releaseDate": {
+                          "__typename": "ReleaseDate",
+                          "month": 6,
+                          "day": 1,
+                          "year": 2020,
+                          "country": { "id": "ES" },
+                          "restriction": null,
+                          "attributes": [],
+                          "displayableProperty": {
+                            "qualifiersInMarkdownList": null
+                          }
+                        },
+                        "titleType": {
+                          "__typename": "TitleType",
+                          "id": "tvSeries",
+                          "text": "TV Series",
+                          "categories": [
+                            { "id": "tv", "text": "TV", "value": "tv" }
+                          ],
+                          "canHaveEpisodes": true,
+                          "isEpisode": false,
+                          "isSeries": true,
+                          "displayableProperty": {
+                            "value": { "plainText": "TV Series" }
+                          }
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm613135361",
+                          "url": "https://m.media-amazon.com/images/M/MV5BNWQyMDk0NjEtY2JmOS00ZGExLWEzMWUtZTBhZGY1MjYxNTEyXkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_.jpg",
+                          "height": 1052,
+                          "width": 1047
+                        },
+                        "ratingsSummary": { "aggregateRating": 2.3 }
+                      },
+                      "credit": {
+                        "__typename": "Cast",
+                        "category": { "id": "self", "text": "Self" },
+                        "characters": [
+                          { "name": "Self - Contestant" },
+                          { "name": "Self - Panelist" }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Name",
+              "id": "nm12739629",
+              "nameText": { "text": "Tom Cruice" },
+              "primaryImage": null,
+              "knownFor": {
+                "edges": [
+                  {
+                    "node": {
+                      "title": {
+                        "__typename": "Title",
+                        "id": "tt15005226",
+                        "titleText": {
+                          "text": "The focking team",
+                          "isOriginalTitle": true
+                        },
+                        "originalTitleText": {
+                          "text": "The focking team",
+                          "isOriginalTitle": true
+                        },
+                        "releaseYear": {
+                          "__typename": "YearRange",
+                          "year": 2012,
+                          "endYear": null
+                        },
+                        "releaseDate": {
+                          "__typename": "ReleaseDate",
+                          "month": 3,
+                          "day": 4,
+                          "year": 2012,
+                          "country": { "id": "HN" },
+                          "restriction": null,
+                          "attributes": [],
+                          "displayableProperty": {
+                            "qualifiersInMarkdownList": null
+                          }
+                        },
+                        "titleType": {
+                          "__typename": "TitleType",
+                          "id": "tvSeries",
+                          "text": "TV Series",
+                          "categories": [
+                            { "id": "tv", "text": "TV", "value": "tv" }
+                          ],
+                          "canHaveEpisodes": true,
+                          "isEpisode": false,
+                          "isSeries": true,
+                          "displayableProperty": {
+                            "value": { "plainText": "TV Series" }
+                          }
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm661059585",
+                          "url": "https://m.media-amazon.com/images/M/MV5BYzAwOGIyOTktODFiOS00MWEzLTg3MzItYmQxMDc1MDdlODU1XkEyXkFqcGdeQXVyMTI2NjE2MDAw._V1_.jpg",
+                          "height": 567,
+                          "width": 410
+                        },
+                        "ratingsSummary": { "aggregateRating": 7.8 }
+                      },
+                      "credit": {
+                        "__typename": "Cast",
+                        "category": { "id": "actor", "text": "Actor" },
+                        "characters": [{ "name": "Santa" }]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Name",
+              "id": "nm5840614",
+              "nameText": { "text": "Tim Craine" },
+              "primaryImage": null,
+              "knownFor": { "edges": [] }
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Name",
+              "id": "nm11943319",
+              "nameText": { "text": "Adam Cruise" },
+              "primaryImage": null,
+              "knownFor": {
+                "edges": [
+                  {
+                    "node": {
+                      "title": {
+                        "__typename": "Title",
+                        "id": "tt4305162",
+                        "titleText": {
+                          "text": "Expedition Unknown",
+                          "isOriginalTitle": true
+                        },
+                        "originalTitleText": {
+                          "text": "Expedition Unknown",
+                          "isOriginalTitle": true
+                        },
+                        "releaseYear": {
+                          "__typename": "YearRange",
+                          "year": 2015,
+                          "endYear": null
+                        },
+                        "releaseDate": {
+                          "__typename": "ReleaseDate",
+                          "month": 1,
+                          "day": 8,
+                          "year": 2015,
+                          "country": { "id": "US" },
+                          "restriction": null,
+                          "attributes": [],
+                          "displayableProperty": {
+                            "qualifiersInMarkdownList": null
+                          }
+                        },
+                        "titleType": {
+                          "__typename": "TitleType",
+                          "id": "tvSeries",
+                          "text": "TV Series",
+                          "categories": [
+                            { "id": "tv", "text": "TV", "value": "tv" }
+                          ],
+                          "canHaveEpisodes": true,
+                          "isEpisode": false,
+                          "isSeries": true,
+                          "displayableProperty": {
+                            "value": { "plainText": "TV Series" }
+                          }
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm2952491009",
+                          "url": "https://m.media-amazon.com/images/M/MV5BMGFiZDZjMmMtNmUyYS00ZmIxLWJkYTgtYjA2ZWZhZGE3MTQyXkEyXkFqcGc@._V1_.jpg",
+                          "height": 755,
+                          "width": 755
+                        },
+                        "ratingsSummary": { "aggregateRating": 8.2 }
+                      },
+                      "credit": {
+                        "__typename": "Cast",
+                        "category": { "id": "self", "text": "Self" },
+                        "characters": [{ "name": "Self - Explorer" }]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Name",
+              "id": "nm9251526",
+              "nameText": { "text": "Ramakrishna Dhanasekaran" },
+              "primaryImage": null,
+              "knownFor": {
+                "edges": [
+                  {
+                    "node": {
+                      "title": {
+                        "__typename": "Title",
+                        "id": "tt7333116",
+                        "titleText": {
+                          "text": "The Way of Nature",
+                          "isOriginalTitle": true
+                        },
+                        "originalTitleText": {
+                          "text": "The Way of Nature",
+                          "isOriginalTitle": true
+                        },
+                        "releaseYear": {
+                          "__typename": "YearRange",
+                          "year": 2017,
+                          "endYear": null
+                        },
+                        "releaseDate": null,
+                        "titleType": {
+                          "__typename": "TitleType",
+                          "id": "short",
+                          "text": "Short",
+                          "categories": [
+                            { "id": "movie", "text": "Movie", "value": "movie" }
+                          ],
+                          "canHaveEpisodes": false,
+                          "isEpisode": false,
+                          "isSeries": false,
+                          "displayableProperty": {
+                            "value": { "plainText": "Short" }
+                          }
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm1454122496",
+                          "url": "https://m.media-amazon.com/images/M/MV5BMmIwY2VjYTctZWZkYS00MDA0LWI5NjktNzIzMDdlN2NhODk1XkEyXkFqcGc@._V1_.jpg",
+                          "height": 1080,
+                          "width": 1920
+                        },
+                        "ratingsSummary": { "aggregateRating": null }
+                      },
+                      "credit": {
+                        "__typename": "Crew",
+                        "category": { "id": "producer", "text": "Producer" }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Name",
+              "id": "nm2874514",
+              "nameText": { "text": "Adam Cruise" },
+              "primaryImage": null,
+              "knownFor": {
+                "edges": [
+                  {
+                    "node": {
+                      "title": {
+                        "__typename": "Title",
+                        "id": "tt0458259",
+                        "titleText": {
+                          "text": "Dirty Jobs",
+                          "isOriginalTitle": true
+                        },
+                        "originalTitleText": {
+                          "text": "Dirty Jobs",
+                          "isOriginalTitle": true
+                        },
+                        "releaseYear": {
+                          "__typename": "YearRange",
+                          "year": 2005,
+                          "endYear": null
+                        },
+                        "releaseDate": {
+                          "__typename": "ReleaseDate",
+                          "month": 7,
+                          "day": 19,
+                          "year": 2005,
+                          "country": { "id": "US" },
+                          "restriction": null,
+                          "attributes": [],
+                          "displayableProperty": {
+                            "qualifiersInMarkdownList": null
+                          }
+                        },
+                        "titleType": {
+                          "__typename": "TitleType",
+                          "id": "tvSeries",
+                          "text": "TV Series",
+                          "categories": [
+                            { "id": "tv", "text": "TV", "value": "tv" }
+                          ],
+                          "canHaveEpisodes": true,
+                          "isEpisode": false,
+                          "isSeries": true,
+                          "displayableProperty": {
+                            "value": { "plainText": "TV Series" }
+                          }
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm448338689",
+                          "url": "https://m.media-amazon.com/images/M/MV5BMzBiY2E0MDMtN2Q3NS00YThkLWE2YmEtMzQ0NWEyMzU0ODQxXkEyXkFqcGdeQXVyNTg3NDkzMzM@._V1_.jpg",
+                          "height": 3840,
+                          "width": 2560
+                        },
+                        "ratingsSummary": { "aggregateRating": 7.7 }
+                      },
+                      "credit": {
+                        "__typename": "Cast",
+                        "category": { "id": "self", "text": "Self" },
+                        "characters": [{ "name": "Self" }]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Name",
+              "id": "nm7797045",
+              "nameText": { "text": "Pam Cruise" },
+              "primaryImage": null,
+              "knownFor": {
+                "edges": [
+                  {
+                    "node": {
+                      "title": {
+                        "__typename": "Title",
+                        "id": "tt5009208",
+                        "titleText": {
+                          "text": "My Uncle John Is a Zombie!",
+                          "isOriginalTitle": true
+                        },
+                        "originalTitleText": {
+                          "text": "My Uncle John Is a Zombie!",
+                          "isOriginalTitle": true
+                        },
+                        "releaseYear": {
+                          "__typename": "YearRange",
+                          "year": 2016,
+                          "endYear": null
+                        },
+                        "releaseDate": {
+                          "__typename": "ReleaseDate",
+                          "month": 4,
+                          "day": 9,
+                          "year": 2020,
+                          "country": { "id": "KR" },
+                          "restriction": null,
+                          "attributes": [],
+                          "displayableProperty": {
+                            "qualifiersInMarkdownList": null
+                          }
+                        },
+                        "titleType": {
+                          "__typename": "TitleType",
+                          "id": "movie",
+                          "text": "Movie",
+                          "categories": [
+                            { "id": "movie", "text": "Movie", "value": "movie" }
+                          ],
+                          "canHaveEpisodes": false,
+                          "isEpisode": false,
+                          "isSeries": false,
+                          "displayableProperty": {
+                            "value": { "plainText": "" }
+                          }
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm1274648833",
+                          "url": "https://m.media-amazon.com/images/M/MV5BNzYxMjhlZjAtYmY1NS00ODM5LThjZTAtMWZlYTNiMzFhN2VjXkEyXkFqcGc@._V1_.jpg",
+                          "height": 1753,
+                          "width": 1242
+                        },
+                        "ratingsSummary": { "aggregateRating": 4.9 }
+                      },
+                      "credit": {
+                        "__typename": "Cast",
+                        "category": { "id": "actress", "text": "Actress" },
+                        "characters": [{ "name": "Protestor" }]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Name",
+              "id": "nm0190026",
+              "nameText": { "text": "Pamela Cruise" },
+              "primaryImage": null,
+              "knownFor": {
+                "edges": [
+                  {
+                    "node": {
+                      "title": {
+                        "__typename": "Title",
+                        "id": "tt0949731",
+                        "titleText": {
+                          "text": "The Happening",
+                          "isOriginalTitle": true
+                        },
+                        "originalTitleText": {
+                          "text": "The Happening",
+                          "isOriginalTitle": true
+                        },
+                        "releaseYear": {
+                          "__typename": "YearRange",
+                          "year": 2008,
+                          "endYear": null
+                        },
+                        "releaseDate": {
+                          "__typename": "ReleaseDate",
+                          "month": 6,
+                          "day": 13,
+                          "year": 2008,
+                          "country": { "id": "US" },
+                          "restriction": null,
+                          "attributes": [],
+                          "displayableProperty": {
+                            "qualifiersInMarkdownList": null
+                          }
+                        },
+                        "titleType": {
+                          "__typename": "TitleType",
+                          "id": "movie",
+                          "text": "Movie",
+                          "categories": [
+                            { "id": "movie", "text": "Movie", "value": "movie" }
+                          ],
+                          "canHaveEpisodes": false,
+                          "isEpisode": false,
+                          "isSeries": false,
+                          "displayableProperty": {
+                            "value": { "plainText": "" }
+                          }
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm3904739072",
+                          "url": "https://m.media-amazon.com/images/M/MV5BMTc2MjcwNjI0MF5BMl5BanBnXkFtZTcwMjM4NjM3MQ@@._V1_.jpg",
+                          "height": 665,
+                          "width": 450
+                        },
+                        "ratingsSummary": { "aggregateRating": 5 }
+                      },
+                      "credit": {
+                        "__typename": "Crew",
+                        "category": {
+                          "id": "art_department",
+                          "text": "Art Department"
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

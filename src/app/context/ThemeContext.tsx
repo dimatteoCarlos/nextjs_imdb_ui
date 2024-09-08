@@ -32,7 +32,6 @@ function ThemeContextProvider({ children }: ThemeContextProviderType) {
 
   useEffect(() => {
     const savedTheme = localStorage.getItem('theme') as ThemeType | null;
-    console.log("🚀 ~ useEffect ~ savedTheme:", savedTheme);
     const initialTheme = savedTheme || 'dark';
     setTheme(initialTheme);
     // Remove the old theme class and add the new one
@@ -51,11 +50,12 @@ function ThemeContextProvider({ children }: ThemeContextProviderType) {
 
   return (
     <ThemeContext.Provider value={{ theme, switchTheme }}>
-      <div className='
-      text-gray-700 bg-gray-200
-      light:text-gray-700 light:bg-gray-200 
+      <div
+        className='
+       light:text-gray-200 light:bg-gray-700
        dark:text-gray-200 dark:bg-gray-700
-      min-h-screen select-none transition-colors duration-300'>
+      min-h-screen select-none transition-colors duration-300'
+      >
         {children}
       </div>
     </ThemeContext.Provider>
@@ -68,7 +68,6 @@ export default ThemeContextProvider;
 
 export const useTheme = () => {
   const { theme, switchTheme } = useContext(ThemeContext);
-  console.log(theme);
   if (theme === undefined) {
     throw new Error('useTheme must be used withing a ThemeContextProvider');
   }
