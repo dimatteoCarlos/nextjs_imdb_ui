@@ -23,13 +23,13 @@ export default function Card({ result }: any) {
           </p>
           <h2 className='text-[0.75rem] font-regular '>{paragraph}</h2>
 
-          <div className='flex justify-center py-[0.25rem] items-center gap-1  mt-2 border-t-amber-500 border-t border-solid text-[0.625rem]'>
-            <span className='dark:text-amber-500 text-[0.625rem] font-bold text-gray-800 '>
+          <div className='flex justify-center py-[0.25rem] items-center gap-1  mt-2 border-t-amber-500 border-t border-solid text-[0.875rem] xl:text-[0.65rem]'>
+            <span className='dark:text-amber-500 font-bold text-gray-800 '>
               Date:
             </span>
-            <span className='text-[0.5rem]'> {year}</span>
+            <span className=''> {year}</span>
             <FiThumbsUp className='h-5 mr-0 ml-1' />
-            <p className='text-[0.625rem] dark:text-amber-500 font-bold w-max overflow-auto '>
+            <p className=' dark:text-amber-500 font-bold w-max overflow-auto '>
               {rank}
             </p>
           </div>
