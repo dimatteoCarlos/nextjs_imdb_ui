@@ -1,6 +1,8 @@
 import { ResultMovieDataType } from '@/app/page';
 import Card from './Card';
 
+
+
 export default function Results({
   results,
 }: {
@@ -15,7 +17,7 @@ export default function Results({
       {!!filteredResults &&
         filteredResults.length > 0 &&
         filteredResults?.map((result: ResultMovieDataType) => (
-          <Card key={result.id} result={result} />
+          <Card key={result.id} result={result} results={results}/>
         ))}
     </div>
   );

@@ -7,12 +7,6 @@ const API_KEY = process.env.API_KEY;
 const baseURL = 'https://online-movie-database.p.rapidapi.com';
 const apiHost = 'online-movie-database.p.rapidapi.com';
 
-// const popularMovieParams = {
-//   first: '100',
-//   country: 'US',
-//   language: 'en-US',
-// };
-
 export type ResultMovieDataType = {
   id: string;
   imageUrl: string;
@@ -27,7 +21,7 @@ export default async function Home({ searchParams }: { searchParams: any }) {
   const genre = searchParams.genre;
   const endpoint =
     genre === 'fetchPopular'
-      ? '/Xtitle/v2/get-popular?first=500&country=US&language=en-US'
+      ? '/Xtitle/v2/get-populari?first=500&country=US&language=en-US'
       : '/Xnews/v2/get-by-category?category=MOVIE&first=1000&country=US&language=en-US';
 
   const res: Response = await fetch(`${baseURL}${endpoint}`, {
@@ -38,6 +32,7 @@ export default async function Home({ searchParams }: { searchParams: any }) {
     },
     // next: { revalidate: 10000 }, //in seconds
   });
+  // const data = await res.json()
 
   const data = res.ok
     ? await res.json()

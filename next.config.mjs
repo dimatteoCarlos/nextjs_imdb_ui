@@ -2,13 +2,13 @@
 const nextConfig = {
 
   // images:{
-  //   domains:['image.tmdb.org'],
+  //   domains:['image.tmdb.org', m.media-amazon.com],
   // }
 
   // images:{
   //   remotePatterns:[{
   //     protocol:'https',
-  //     hostname:'image.tmdb.org',
+  //     hostname:'m.media-amazon.com',
   //     pathname:'**'
   //     }
   //   ]

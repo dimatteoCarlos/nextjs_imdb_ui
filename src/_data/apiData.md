@@ -240,6 +240,28 @@ console.log(response.data);
 console.error(error);
 }
 
+
+GET OVERVIEW FETCH
+
+const fetch = require('node-fetch');
+
+const url = 'https://online-movie-database.p.rapidapi.com/title/v2/get-overview?tconst=tt0120338&country=US&language=en-US';
+const options = {
+  method: 'GET',
+  headers: {
+    'x-rapidapi-key': '4bdb736a00msh59f714906610b01p1fff71jsnbe4c8cee93df',
+    'x-rapidapi-host': 'online-movie-database.p.rapidapi.com'
+  }
+};
+
+try {
+	const response = await fetch(url, options);
+	const result = await response.text();
+	console.log(result);
+} catch (error) {
+	console.error(error);
+}
+
 ---
 
 GET-BY-CATEGORY NEWS

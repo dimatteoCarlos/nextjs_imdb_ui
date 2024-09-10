@@ -1,12 +1,22 @@
 import Link from 'next/link';
 import { FiThumbsUp } from 'react-icons/fi';
+import { ResultMovieDataType } from '@/app/page';
 
-export default function Card({ result }: any) {
-  const { id, imageUrl, title, paragraph, year, rankOrAuthor: rank } = result;
+type CardPropsType = {
+  result: ResultMovieDataType;
+  results: ResultMovieDataType[];
+};
+
+export default function Card({
+  result: movie,
+  results: movies,
+}: CardPropsType) {
+  const { id, imageUrl, title, paragraph, year, rankOrAuthor: rank } = movie;
 
   return (
     <div className='group cursor-pointer sm:hover:shadow-slate-400 sm:shadow-md rounded-lg sm:border sm:border-slate-400 sm:m-2 transition-shadow duration-200 text-center sm:text-start'>
       <Link href={`/movie/${id}`}>
+      
         {imageUrl && (
           <img
             src={`${imageUrl}`}
@@ -27,7 +37,7 @@ export default function Card({ result }: any) {
             <span className='dark:text-amber-500 font-bold text-gray-800 '>
               Date:
             </span>
-            <span className=''> {year}</span>
+            <span className=''> {year.toString()}</span>
             <FiThumbsUp className='h-5 mr-0 ml-1' />
             <p className=' dark:text-amber-500 font-bold w-max overflow-auto '>
               {rank}
