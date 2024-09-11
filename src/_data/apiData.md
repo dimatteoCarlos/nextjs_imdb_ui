@@ -141,7 +141,7 @@ console.error(error);
 
 ---
 
-GET title/v2/get-t9op-trending-video-trailers
+GET title/v2/get-top-trending-video-trailers
 
 const axios = require('axios');
 
@@ -240,26 +240,25 @@ console.log(response.data);
 console.error(error);
 }
 
-
 GET OVERVIEW FETCH
 
 const fetch = require('node-fetch');
 
 const url = 'https://online-movie-database.p.rapidapi.com/title/v2/get-overview?tconst=tt0120338&country=US&language=en-US';
 const options = {
-  method: 'GET',
-  headers: {
-    'x-rapidapi-key': '4bdb736a00msh59f714906610b01p1fff71jsnbe4c8cee93df',
-    'x-rapidapi-host': 'online-movie-database.p.rapidapi.com'
-  }
+method: 'GET',
+headers: {
+'x-rapidapi-key': '4bdb736a00msh59f714906610b01p1fff71jsnbe4c8cee93df',
+'x-rapidapi-host': 'online-movie-database.p.rapidapi.com'
+}
 };
 
 try {
-	const response = await fetch(url, options);
-	const result = await response.text();
-	console.log(result);
+const response = await fetch(url, options);
+const result = await response.text();
+console.log(result);
 } catch (error) {
-	console.error(error);
+console.error(error);
 }
 
 ---
@@ -332,6 +331,54 @@ try {
 const response = await fetch(url, options);
 const result = await response.text();
 console.log(result);
+} catch (error) {
+console.error(error);
+}
+
+---
+
+//GET NEWS ARTICLE - FETCH
+const fetch = require('node-fetch');
+
+const url = 'https://online-movie-database.p.rapidapi.com/news/v2/get-article?niconst=ni64488339&country=US&language=en-US';
+const options = {
+method: 'GET',
+headers: {
+'x-rapidapi-key': '4bdb736a00msh59f714906610b01p1fff71jsnbe4c8cee93df',
+'x-rapidapi-host': 'online-movie-database.p.rapidapi.com'
+}
+};
+
+try {
+const response = await fetch(url, options);
+const result = await response.text();
+console.log(result);
+} catch (error) {
+console.error(error);
+}
+
+# --------------------------
+
+AXIOS
+const axios = require('axios');
+
+const options = {
+method: 'GET',
+url: 'https://online-movie-database.p.rapidapi.com/news/v2/get-article',
+params: {
+niconst: 'ni64488339',
+country: 'US',
+language: 'en-US'
+},
+headers: {
+'x-rapidapi-key': '4bdb736a00msh59f714906610b01p1fff71jsnbe4c8cee93df',
+'x-rapidapi-host': 'online-movie-database.p.rapidapi.com'
+}
+};
+
+try {
+const response = await axios.request(options);
+console.log(response.data);
 } catch (error) {
 console.error(error);
 }

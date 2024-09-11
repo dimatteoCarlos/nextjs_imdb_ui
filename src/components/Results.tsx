@@ -1,12 +1,11 @@
 import { ResultMovieDataType } from '@/app/page';
 import Card from './Card';
 
-
-
 export default function Results({
-  results,
+  results,route
 }: {
   results: ResultMovieDataType[];
+  route:"movie" | "news";
 }) {
   const filteredResults =
     results?.filter((result: any) => result?.imageUrl !== undefined) || [];
@@ -17,7 +16,7 @@ export default function Results({
       {!!filteredResults &&
         filteredResults.length > 0 &&
         filteredResults?.map((result: ResultMovieDataType) => (
-          <Card key={result.id} result={result} results={results}/>
+          <Card key={result.id} result={result} route={route}/>
         ))}
     </div>
   );

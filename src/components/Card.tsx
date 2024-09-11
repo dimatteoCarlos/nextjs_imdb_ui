@@ -4,19 +4,17 @@ import { ResultMovieDataType } from '@/app/page';
 
 type CardPropsType = {
   result: ResultMovieDataType;
-  results: ResultMovieDataType[];
+  route: 'movie' | 'news';
 };
 
-export default function Card({
-  result: movie,
-  results: movies,
-}: CardPropsType) {
-  const { id, imageUrl, title, paragraph, year, rankOrAuthor: rank } = movie;
+export default function Card({ result: detail, route }: CardPropsType) {
+  const { id, imageUrl, title, paragraph, year, rankOrAuthor: rank } = detail;
+
+  const detailRoute = `/${route}/${id}`;
 
   return (
     <div className='group cursor-pointer sm:hover:shadow-slate-400 sm:shadow-md rounded-lg sm:border sm:border-slate-400 sm:m-2 transition-shadow duration-200 text-center sm:text-start'>
-      <Link href={`/movie/${id}`}>
-      
+      <Link href={detailRoute}>
         {imageUrl && (
           <img
             src={`${imageUrl}`}

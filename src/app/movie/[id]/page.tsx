@@ -6,11 +6,8 @@ const apiHost = 'online-movie-database.p.rapidapi.com';
 
 export default async function MoviePage({ params }: { params: any }) {
   const movieId = params.id as string;
-  console.log(movieId);
 
   if (!movieId) return;
-
-  // Realiza una solicitud para obtener la información detallada de la película
 
   const endpoint = `/title/v2/get-overview?tconst=${movieId}&country=US&language=en-US`;
 
@@ -35,7 +32,9 @@ export default async function MoviePage({ params }: { params: any }) {
     console.log('Failed to fetch data');
     throw new Error('Failed to fetch data');
   }
+
   const movieData = data.data;
+
   const movie = {
     id: movieData.title.id,
     imageUrl: movieData.title.primaryImage.url,
@@ -45,11 +44,12 @@ export default async function MoviePage({ params }: { params: any }) {
     rank: `${movieData.title.ratingsSummary.aggregateRating}`,
 
     paragraph: `${movieData.title.plot.plotText.plainText}`,
-    certificate: `${movieData.title.certificate.ratingReason}`,
+
+    certificate: `${
+      movieData.title.certificate?.ratingReason ?? 'unrated or unclassified'
+    }`,
     voteCount: `${movieData.title.ratingsSummary.voteCount}`,
   };
-
-  console.log('movie:', movie);
 
   return (
     <div className='w-full'>
