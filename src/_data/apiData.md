@@ -90,6 +90,10 @@ console.error(error);
 
 # results in searchResults.json
 
+*********
+FETCH
+
+
 ---
 
 GET AUTO-COMPLETE
@@ -114,6 +118,28 @@ console.error(error);
 }
 
 #-----------------
+const fetch = require('node-fetch');
+
+const url = 'https://online-movie-database.p.rapidapi.com/auto-complete?q=game%20of%20thr';
+const options = {
+  method: 'GET',
+  headers: {
+    'x-rapidapi-key': '4bdb736a00msh59f714906610b01p1fff71jsnbe4c8cee93df',
+    'x-rapidapi-host': 'online-movie-database.p.rapidapi.com'
+  }
+};
+
+try {
+	const response = await fetch(url, options);
+	const result = await response.text();
+	console.log(result);
+} catch (error) {
+	console.error(error);
+}
+
+#-----------------
+
+
 GET title/V2/get-genres
 
 const axios = require('axios');
