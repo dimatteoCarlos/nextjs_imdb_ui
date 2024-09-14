@@ -40,10 +40,12 @@ export default async function MoviePage({ params }: { params: any }) {
     imageUrl: movieData.title.primaryImage.url,
     title:
       movieData.title.titleText.text || movieData.title.originalTitleText.text,
-    year: movieData.title.releaseYear.year,
-    rank: `${movieData.title.ratingsSummary.aggregateRating}`,
+    year: movieData.title.releaseYear?.year,
+    rank: `${movieData.title.ratingsSummary?.aggregateRating}`,
 
-    paragraph: `${movieData.title.plot.plotText.plainText}`,
+    paragraph: `${
+      movieData.title.plot?.plotText?.plainText ?? 'no title registered'
+    }`,
 
     certificate: `${
       movieData.title.certificate?.ratingReason ?? 'unrated or unclassified'

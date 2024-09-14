@@ -41,38 +41,8 @@ export default function Card({ result: detail, route }: CardPropsType) {
               {rank}
             </p>
           </div>
-
-          
         </div>
       </Link>
     </div>
   );
 }
-
-  // const searchInfo = {
-  //   id: searchResultsData.id,
-  //   imageUrl: searchResultsData.i.imageUrl,
-  //   title: searchResultsData.l,
-
-  //   year: searchResultsData.y ||  searchResultsData.yr ,
-  //   rank: searchResultsData.rank,
-
-  //   type: `${searchResultsData.qid}`,
-  //   characters: `${searchResultsData.s}`,
-  // };
-/*
-  i?: {
-    height: number;
-    imageUrl: string;
-    width: number;
-  } | null;
-  id: string; //"tt0944947"
-  l: string; //"Game of Thrones"
-  q: string; //"TV series"
-  qid: string; //"tvSeries
-  rank: number; //8
-  s: string; //"Emilia Clarke, Peter Dinklage"
-  y?: number | null;
-  yr?: string | null;
-}
-  */

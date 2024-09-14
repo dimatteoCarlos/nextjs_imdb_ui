@@ -1,11 +1,12 @@
 import type { Metadata } from 'next';
 import Head from 'next/head';
-import { Inter} from 'next/font/google';
+import { Inter } from 'next/font/google';
 import Header from '@/components/Header';
 import Navbar from '@/components/Navbar';
 import Search from './search/page';
 import ThemeContextProvider from './context/ThemeContext';
 import './globals.css';
+import SearchBox from '@/components/SearchBox';
 
 const font = Inter({ subsets: ['latin'] });
 
@@ -28,7 +29,7 @@ export default function RootLayout({
         <ThemeContextProvider>
           <Header></Header>
           <Navbar></Navbar>
-          <Search></Search>
+          <SearchBox></SearchBox>
           {children}
         </ThemeContextProvider>
       </body>
