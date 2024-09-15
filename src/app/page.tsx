@@ -92,7 +92,7 @@ export default async function Home({
       (datumObj: Record<string, any>) => {
         const obj = {
           id: datumObj.node.id,
-          imageUrl: datumObj.node.image.url,
+          imageUrl: datumObj.node.image?.url,
           title: datumObj.node.articleTitle.plainText,
           year: datumObj.node.date.split('T')[0],
           rankOrAuthor: `by: ${datumObj.node.byline ?? 'anonymous'}  `,
