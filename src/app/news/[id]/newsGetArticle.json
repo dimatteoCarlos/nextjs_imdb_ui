@@ -1,0 +1,31 @@
+{
+  "data": {
+    "newsArticle": {
+      "__typename": "News",
+      "id": "ni64488339",
+      "byline": "Jordan Moreau",
+      "date": "2024-03-15T14:50:05Z",
+      "externalUrl": "https://variety.com/2024/film/box-office/box-office-arthur-the-king-previews-1235942885/",
+      "articleTitle": {
+        "plainText": "Box Office: Mark Wahlberg’s ‘Arthur the King’ Makes $825,000 in Previews"
+      },
+      "image": {
+        "__typename": "Image",
+        "id": "rm1901741057",
+        "url": "https://m.media-amazon.com/images/M/MV5BMWI2MjYwM2EtYzFkNC00N2FjLThiODQtNzk4MGYxNjM3MjQ4XkEyXkFqcGdeQXVyMTE0MzQwMjgz._V1_.jpg",
+        "height": 562,
+        "width": 1000
+      },
+      "text": {
+        "plainText": "This week’s new theatrical release, the dog-friendly adventure movie “Arthur the King” starring Mark Wahlberg and a four-legged best friend, has made $825,000 at the box office in Thursday previews.\n\nThe Lionsgate movie is expected to make between $8 million and $10 million in its opening weekend. It will have to settle for third place, though, as this month’s previous releases, Universal’s animated sequel “Kung Fu Panda 4” and Warner Bros.’ sci-fi epic “Dune: Part Two,” will claim the top two spots once again.\n\nIn its second weekend, “Kung Fu Panda 4” is projected to make between $28 million to $30 million and claim the box office crown once again. So far, the animated, family-friendly film has grossed $62 million at the domestic box office and $93 million globally.\n\n“Dune: Part Two” is on track for around $24 million to $27 million in its third weekend of release. The sci-fi sequel, starring Timothee Chalamet, Zendaya, Rebecca Ferguson"
+      },
+      "source": {
+        "homepage": {
+          "url": "http://variety.com/",
+          "label": "Variety - Film News"
+        },
+        "description": null
+      }
+    }
+  }
+}

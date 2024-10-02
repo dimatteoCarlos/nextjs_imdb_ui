@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import getSearch from '../../../_data/autoCompleteResults.json';
-import getAltSearch from '../../../_data/autoCompleteExample.json';
+// import getAltSearch from '../../../_data/autoCompleteExample.json';
+import getAltSearch from './autoCompleteExample.json';
 import { FiThumbsUp } from 'react-icons/fi';
 import Image from 'next/image'; // Importa el componente Image
 

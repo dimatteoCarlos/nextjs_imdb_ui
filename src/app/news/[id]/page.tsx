@@ -1,6 +1,7 @@
 //news/[id]/page.tsx
-import Link from 'next/link';
-import newsArticle from '../../../_data/newsGetArticle.json';
+import newsArticle from './newsGetArticle.json';
+// import newsArticle from './../../../_data/newsGetArticle.json';
+
 import { GiJumpAcross } from 'react-icons/gi';
 
 export type NewsArticle = {
