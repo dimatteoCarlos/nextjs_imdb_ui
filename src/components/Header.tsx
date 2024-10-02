@@ -2,7 +2,6 @@ import { FaHome } from 'react-icons/fa';
 import { BsFillInfoCircleFill } from 'react-icons/bs';
 import Link from 'next/link';
 import MenuLink from './MenuLink';
-import { MdDarkMode } from 'react-icons/md';
 import DarkModeSwitch from './DarkModeSwitch';
 
 function Header() {

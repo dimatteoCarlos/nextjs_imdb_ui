@@ -40,7 +40,7 @@ function ThemeContextProvider({ children }: ThemeContextProviderType) {
   }, []);
 
   const switchTheme = () => {
-    const newTheme = theme === 'light' ? 'dark' : 'light';
+    const newTheme = theme === 'dark' ? 'light' : 'dark';
     setTheme(newTheme);
     localStorage.setItem('theme', newTheme);
     // Remove the old theme class and add the new one
@@ -56,6 +56,7 @@ function ThemeContextProvider({ children }: ThemeContextProviderType) {
        dark:text-gray-200 dark:bg-gray-700
       min-h-screen select-none transition-colors duration-300'
       >
+      
         {children}
       </div>
     </ThemeContext.Provider>

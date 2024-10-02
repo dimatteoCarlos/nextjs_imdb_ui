@@ -10,6 +10,9 @@ function SearchBox() {
 
   function handleSubmit(e: FormEvent<HTMLFormElement>) {
     e.preventDefault();
+    //     router.push(`/search/${encodeURIComponent(searchTerm.trim())}`);
+    //encodeURIComponent(...): Esta función de JavaScript codifica un componente de URI. Lo que hace es reemplazar caracteres especiales en el término de búsqueda por una representación que sea segura para incluir en una URL. Por ejemplo, caracteres como espacios, signos de puntuación y otros caracteres especiales se convierten en una secuencia de caracteres que son válidos en URLs.
+
     router.push(`/search/${searchTerm}`);
     setSearchTerm('');
 
