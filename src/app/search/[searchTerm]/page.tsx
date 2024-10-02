@@ -37,7 +37,9 @@ const baseURL = 'https://online-movie-database.p.rapidapi.com';
 const apiHost = 'online-movie-database.p.rapidapi.com';
 
 if (!API_KEY) {
-  throw new Error('API_KEY is not defined in the environment');
+  throw new Error(
+    'API_KEY could not be fount, perhaps is not defined in the environment'
+  );
 }
 
 const options = {

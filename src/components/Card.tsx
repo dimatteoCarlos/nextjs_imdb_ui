@@ -23,6 +23,7 @@ export default function Card({ result: detail, route }: CardPropsType) {
             height={300}
             className='sm:rounded-t-lg group-hover:opacity-75 transition-opacity duration-300 inline-block'
             alt={title}
+            priority
           />
         )}
 
