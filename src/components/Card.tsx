@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { FiThumbsUp } from 'react-icons/fi';
 import { ResultMovieDataType } from '@/app/page';
+import Image from 'next/image';
 
 type CardPropsType = {
   result: ResultMovieDataType;
@@ -16,7 +17,7 @@ export default function Card({ result: detail, route }: CardPropsType) {
     <div className='group cursor-pointer sm:hover:shadow-slate-400 sm:shadow-md rounded-lg sm:border sm:border-slate-400 sm:m-2 transition-shadow duration-200 text-center sm:text-start'>
       <Link href={detailRoute}>
         {imageUrl && (
-          <img
+        <Image
             src={`${imageUrl}`}
             width={500}
             height={300}

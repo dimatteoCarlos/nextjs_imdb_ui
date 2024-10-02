@@ -1,4 +1,5 @@
 //movie/[id]/page.tsx
+import Image from 'next/image';
 import overview from '../../../_data/titleOverview.json';
 const API_KEY = process.env.API_KEY;
 const baseURL = 'https://online-movie-database.p.rapidapi.com';
@@ -56,14 +57,14 @@ export default async function MoviePage({ params }: { params: any }) {
   return (
     <div className='w-full'>
       <div className='p-4 flex flex-col md:pt-8  md:flex-row content-center max-w-6xl mx-auto md:space-x-6'>
-        <img
+        <Image
           src={`${movie.imageUrl}`}
           width={500}
           height={300}
           className='rounded-lg'
           // style={{ maxWidth: '100%', height: '100%' }}
           alt={movie.title}
-        ></img>
+        ></Image>
 
         <div className='p-2'>
           <h2 className='text-lg mb-3 font-bold dark:text-amber-500'>

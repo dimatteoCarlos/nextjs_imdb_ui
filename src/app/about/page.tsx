@@ -1,5 +1,3 @@
-import React from 'react';
-
 function About() {
   return (
     <section className='about__container max-w-6xl p-3 mx-auto space-y-[1rem] '>
@@ -9,8 +7,8 @@ function About() {
       <p>
         We are thrilled to welcome you to the IMDb Movie Database App, your
         premier source for comprehensive information on movies and TV shows.
-        Whether you're a casual viewer or a dedicated film enthusiast, our app
-        is designed to enhance your cinematic experience with a wealth of
+        Whether you &apos;re a casual viewer or a dedicated film enthusiast, our
+        app is designed to enhance your cinematic experience with a wealth of
         details and resources. Explore a world of entertainment with ease as we
         provide you with up-to-date information and insights about your favorite
         films and television series.
