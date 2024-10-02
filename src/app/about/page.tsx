@@ -7,7 +7,7 @@ function About() {
         About
       </h1>
       <p>
-        We’re thrilled to welcome you to the IMDb Movie Database App, your
+        We are thrilled to welcome you to the IMDb Movie Database App, your
         premier source for comprehensive information on movies and TV shows.
         Whether you're a casual viewer or a dedicated film enthusiast, our app
         is designed to enhance your cinematic experience with a wealth of
