@@ -1,7 +1,7 @@
 //movie/[id]/page.tsx
 import Image from 'next/image';
 import overview from '../../../_data/titleOverview.json';
-const API_KEY = process.env.API_KEY;
+const API_KEY = process.env.NEXT_PUBLIC_API_KEY;
 const baseURL = 'https://online-movie-database.p.rapidapi.com';
 const apiHost = 'online-movie-database.p.rapidapi.com';
 

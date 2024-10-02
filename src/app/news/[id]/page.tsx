@@ -37,7 +37,7 @@ export type NewsArticle = {
   };
 };
 
-const API_KEY = process.env.API_KEY;
+const API_KEY = process.env.NEXT_PUBLIC_API_KEY;
 const baseURL = 'https://online-movie-database.p.rapidapi.com';
 const apiHost = 'online-movie-database.p.rapidapi.com';
 
