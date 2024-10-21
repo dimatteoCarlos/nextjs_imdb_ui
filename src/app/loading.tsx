@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 function loading() {
   return (
-    <div className='icon__container flex justify-center overflow-hidden'>
+    <div className='icon__container flex justify-center overflow-hidden w-[10rem] h-[10rem] mx-auto'>
       <Image
         src='/Gear.svg'
         alt='Loading...'

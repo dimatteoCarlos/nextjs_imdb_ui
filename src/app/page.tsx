@@ -1,7 +1,7 @@
 'use server';
-import Results from '@/components/Results.tsx';
 import getPopular from '../_data/getPopular.json';
 import getNews from '../_data/newsGetByCategory.json';
+import Results from '@/components/Results.tsx';
 
 const API_KEY = process.env.NEXT_PUBLIC_API_KEY;
 const baseURL = 'https://online-movie-database.p.rapidapi.com';
